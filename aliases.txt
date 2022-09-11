@@ -1,0 +1,40 @@
+#========== Php And Composer Aliases ==========
+alias pserver="php -S localhost:1000"
+alias ci="composer init"
+alias creq="composer require"
+alias cdump="composer dump-autoload"
+
+#========== Laravel Aliases ==========
+
+alias laravel="/home/xyder/.config/composer/vendor/bin/laravel"
+alias pam="php artisan migrate"
+alias pa="php artisan"
+
+#========== Git Aliases ==========
+
+alias gv="git --version"
+
+#Daily Use Git And GitHub Communicate Aliases
+alias gi="git init"
+alias gs="git status"
+alias ga="git add ."
+alias gc="git commit -m"
+alias gl="git log --oneline"
+alias gr="git remote add origin"
+alias grv="git remote -v"
+alias grr="git remote remove origin"
+alias grra="git remote set-url origin"
+alias gp="git push origin"
+alias gclone="git clone"
+
+#Handling Git Commit
+alias gcheck="git checkout"
+alias grevert="git revert"
+alias gcc="git commit --amend"
+
+#Git Branches
+alias cabr="git branch -a"
+alias cbr="git branch"
+alias dbr="git branch -D"
+alias mbr="git merge"
+alias gpodbr="git push origin --delete"
