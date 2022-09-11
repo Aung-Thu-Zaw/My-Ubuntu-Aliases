@@ -1,5 +1,5 @@
 #========== Php And Composer Aliases ==========
-alias pserver="php -S localhost:1000"
+alias pserver="sudo php -S localhost:1000"
 alias ci="composer init"
 alias creq="composer require"
 alias cdump="composer dump-autoload"
