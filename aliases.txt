@@ -5,7 +5,7 @@ alias creq="composer require"
 alias cdump="composer dump-autoload"
 
 
-#========== Php And Composer Aliases ==========
+#========== Mysql Aliases ==========
 alias rootsql="sudo mysql -u root -p"
 alias pmasql="sudo mysql -u pmauser -p"
 
