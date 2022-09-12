@@ -4,6 +4,12 @@ alias ci="composer init"
 alias creq="composer require"
 alias cdump="composer dump-autoload"
 
+
+#========== Php And Composer Aliases ==========
+alias rootsql="sudo mysql -u root -p"
+alias pmasql="sudo mysql -u pmauser -p"
+
+
 #========== Laravel Aliases ==========
 
 alias laravel="/home/xyder/.config/composer/vendor/bin/laravel"
