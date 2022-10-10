@@ -15,6 +15,7 @@ alias pmasql="sudo mysql -u pmauser -p"
 alias laravel="/home/xyder/.config/composer/vendor/bin/laravel"
 alias pam="php artisan migrate"
 alias pa="php artisan"
+alias pamfrseed="php artisan migrate:fresh --seed"
 
 #========== Git Aliases ==========
 
