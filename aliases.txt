@@ -1,3 +1,8 @@
+#========== Js And Npm Aliases ==========
+alias npmi="npm install"
+alias npm="npm run"
+alias npms="npm run serve"
+
 #========== Php And Composer Aliases ==========
 alias pserver="sudo php -S localhost:1000"
 alias ci="composer init"
