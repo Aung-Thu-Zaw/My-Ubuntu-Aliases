@@ -1,4 +1,5 @@
 #========== Js And Npm Aliases ==========
+alias ni="npm init"
 alias npmi="npm install"
 alias npmr="npm run"
 alias npmrs="npm run serve"
