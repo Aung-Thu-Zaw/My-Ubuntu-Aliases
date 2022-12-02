@@ -46,11 +46,11 @@ alias gclone="git clone"
 #Handling Git Commit
 alias gcheck="git checkout"
 alias grevert="git revert"
-alias gcc="git commit --amend"
+alias gcchange="git commit --amend"
 
 #Git Branches
-alias cabr="git branch -a"
-alias cbr="git branch"
-alias dbr="git branch -D"
-alias mbr="git merge"
+alias gbrcheck="git branch -a"
+alias gbr="git branch"
+alias gbrdelete="git branch -D"
+alias gbrm="git merge"
 alias gpodbr="git push origin --delete"
