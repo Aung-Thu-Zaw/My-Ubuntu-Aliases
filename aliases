@@ -4,6 +4,8 @@ alias npmi="npm install"
 alias npmr="npm run"
 alias npmrs="npm run serve"
 alias npmrd="npm run dev"
+alias npmrw="npm run watch"
+alias npmrb="npm run build"
 
 #========== Php And Composer Aliases ==========
 alias pserver="sudo php -S localhost:1000"
